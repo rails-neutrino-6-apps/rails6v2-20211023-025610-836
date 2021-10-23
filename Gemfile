@@ -73,5 +73,6 @@ group :development, :testing do
   gem 'rails_best_practices', '1.21.0'
   gem 'rubocop', '1.22.2' # Checks for violations of the Ruby Style Guide, not recommended for legacy apps
   gem 'rubocop-rails', '2.12.4'
+  # gem 'sandi_meter'
 end
 # END: Lint gems
